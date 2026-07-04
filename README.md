@@ -46,7 +46,23 @@
   <img width="49%" src="https://raw.githubusercontent.com/Aswinmcw/Aswinmcw/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
 </p>
 
-<sub align="center">↻ Auto-updated daily via GitHub Actions</sub>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aswinmcw&theme=tokyonight&hide_border=true" alt="commit streak" />
+</p>
+
+<sub>↻ Stats auto-update daily via GitHub Actions</sub>
+
+---
+
+### 🐍 Contribution graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aswinmcw/Aswinmcw/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aswinmcw/Aswinmcw/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Aswinmcw/Aswinmcw/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
