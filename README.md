@@ -32,4 +32,22 @@
 
 ---
 
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aswinmcw/Aswinmcw/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+</p>
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/Aswinmcw/Aswinmcw/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/Aswinmcw/Aswinmcw/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
+</p>
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/Aswinmcw/Aswinmcw/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
+  <img width="49%" src="https://raw.githubusercontent.com/Aswinmcw/Aswinmcw/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
+</p>
+
+<sub align="center">↻ Auto-updated daily via GitHub Actions</sub>
+
+---
+
 <p align="center"><i>🔗 <a href="https://ttperf.aswincloud.com">ttperf.aswincloud.com</a></i></p>
