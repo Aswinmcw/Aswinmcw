@@ -30,13 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aswinmcw&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinmcw&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 <p align="center"><i>🔗 <a href="https://ttperf.aswincloud.com">ttperf.aswincloud.com</a></i></p>
